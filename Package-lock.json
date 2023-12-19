@@ -1,0 +1,14 @@
+
+
+
+
+
+"sripts": {
+   "dev": "vite",
+   "build": "vite build"
+   "lint": "eslint . --ext js, jsx --report-unused-disable-directives --maxwarings 0",
+   "preview": "vite preview",
+},
+"dependencies": {
+    "react": "18.2.15"
+}
